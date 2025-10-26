@@ -1,6 +1,6 @@
 cc = clang
 c_flags = -Wall -Wextra -g
-src = cau3
+src = cau4
 target = out
 
 all: $(target)
